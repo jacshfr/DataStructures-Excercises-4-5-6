@@ -1,0 +1,23 @@
+{
+  "name": "DataStructures-Excercises-4-5-6",
+  "version": "1.0.0",
+  "description": "data structures excercises",
+  "main": "lib/app.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jacshfr/DataStructures-Excercises-4-5-6.git"
+  },
+  "author": "jShaf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacshfr/DataStructures-Excercises-4-5-6/issues"
+  },
+  "homepage": "https://github.com/jacshfr/DataStructures-Excercises-4-5-6"
+}
